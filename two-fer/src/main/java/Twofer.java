@@ -1,12 +1,6 @@
 class Twofer {
     String twofer(String name) {
-
-      if(name == null){
-        return "One for you, one for me.";
-      } else {
-        String fer = "One for ";
-        fer += name + ", one for me.";
-        return fer;
-      }
+      String fer = (name == null) ? "One for you, one for me." : "One for " + name + ", one for me.";
+      return fer;      
     }
 }
