@@ -6,7 +6,7 @@ Challenge progress
 ------
 * Hello World
 
-  * **Extra Exercises**
+  * **_Extra Exercises_**
   * Raindrops
   * Isogram
   * Pig Latin
